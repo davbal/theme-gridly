@@ -1799,8 +1799,7 @@ hr.large {
  * Page styles
  */
 .wrap {
-  width: 94%;
-  margin-left: 3%;
+  margin: 0 6% 0;
 }
 .header {
   width: 100%;
@@ -2432,8 +2431,7 @@ ul.sidenav-post li {
     width: 100%;
   }
   .wrap {
-    width:auto;
-    margin: 0 6% 0;
+    width:100%;
   }
   .header .social-icons {
     float: left;

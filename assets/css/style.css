@@ -1892,6 +1892,21 @@ hr.large {
 #nav ul li a.active {
   text-decoration: underline;
 }
+#sidenav {
+  width: 25%;
+  float: left;
+}
+ul.sidenav-post {
+  margin-left: 0;
+  margin-right: 2em;
+  padding: 0;
+  list-style: none;
+}
+ul.sidenav-post li {
+  border-top: 1px solid #aaaaaa;
+  padding-bottom: 20px;
+  padding-top: 5px;
+}
 .footer {
   width: 100%;
   display: inline;
@@ -2417,7 +2432,8 @@ hr.large {
     width: 100%;
   }
   .wrap {
-    margin-left: 0;
+    width:auto;
+    margin: 0 6% 0;
   }
   .header .social-icons {
     float: left;

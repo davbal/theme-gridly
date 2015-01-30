@@ -1964,6 +1964,7 @@ hr.large {
 .post-area {
   margin-bottom: 30px;
   margin-bottom: 1.875rem;
+  width:75%;
 }
 .post-area .blog-post {
   width: 100%;
@@ -2037,7 +2038,7 @@ hr.large {
   display: block;
   /* found in _assets/less/elements.less */
   width: auto;
-  padding: 20px;
+  padding: 0px;
   overflow: hidden;
 }
 .post-content ul,
@@ -2118,7 +2119,7 @@ hr.large {
 }
 .post-content h2,
 .post-content h3 {
-  padding-top: 15px;
+  padding-top: 0px;
 }
 .post-content img {
   max-width: 100%;
